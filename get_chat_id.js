@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 
 // Replace with your Telegram bot token
-TELEGRAM BOT API KEY', { polling: true });
+const bot_token = 'TELEGRAM BOT API KEY', { polling: true });
 
 bot.on('message', (msg) => {
     const chatId = msg.chat.id;
