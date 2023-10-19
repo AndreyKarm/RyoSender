@@ -10,5 +10,3 @@ bot.on('message', (msg) => {
 
 // Start listening for messages
 bot.startPolling();
-
-// 636300458
