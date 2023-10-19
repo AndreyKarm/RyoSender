@@ -7,7 +7,7 @@ const { Telegraf } = require('telegraf');
 const { scheduleJob } = require('node-schedule');
 const { error } = require('console');
 
-const BOT_TOKEN = '6530554561:AAF1sBxbXbJzrDDRS1N4M99Xq27PJlLRfl0';
+const BOT_TOKEN = 'TELEGRAM_BOT_API';
 //const subreddit = 'Kurisutina';
 const subreddit = 'ChurchOfRyo';
 // const subreddit = 'hentai';
